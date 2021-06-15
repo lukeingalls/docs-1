@@ -1,0 +1,12 @@
+{
+  "name": "vue-docs-en",
+  "private": true,
+  "scripts": {
+    "dev": "vue-website dev",
+    "build": "vue-website build",
+    "serve": "vue-website serve"
+  },
+  "dependencies": {
+    "@vue/website": "vuejs/website"
+  }
+}
